@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-control",
+  "version": "0.0.1",
+  "description": "Minecraft process runner",
+  "author": "Sage Imel",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "*",
+    "dev-null": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nightfly19/minecraft-control.git"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "minecraft"
+  ]
+}
